@@ -1,0 +1,5 @@
+code_server\manager\exception\MFCException.class
+code_server\manager\Application.class
+code_server\manager\controller\CodeController.class
+code_server\manager\utils\BCDCode.class
+code_server\manager\utils\QrBuildData.class
